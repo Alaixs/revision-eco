@@ -1,0 +1,3592 @@
+[
+    {
+        "question": "Quelles sont les étapes du cycle de vie d'un équipement ?",
+        "options": [
+            {
+                "text": "Matières premières",
+                "correct": true
+            },
+            {
+                "text": "Fabrication",
+                "correct": true
+            },
+            {
+                "text": "Transport",
+                "correct": true
+            },
+            {
+                "text": "Recyclage uniquement",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels facteurs influencent la consommation énergétique d'un écran ?",
+        "options": [
+            {
+                "text": "Taille de la diagonale",
+                "correct": true
+            },
+            {
+                "text": "Luminosité",
+                "correct": true
+            },
+            {
+                "text": "Nombre de couleurs affichées",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quel est le taux de rotation moyen des téléphones en entreprise ?",
+        "options": [
+            {
+                "text": "12 à 18 mois",
+                "correct": false
+            },
+            {
+                "text": "24 à 36 mois",
+                "correct": true
+            },
+            {
+                "text": "48 à 60 mois",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est le principal impact sanitaire des ondes radios des téléphones ?",
+        "options": [
+            {
+                "text": "Augmentation du DAS",
+                "correct": true
+            },
+            {
+                "text": "Consommation excessive d'énergie",
+                "correct": false
+            },
+            {
+                "text": "Réduction de la durée de vie de la batterie",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Qu'est-ce qu'un client léger dans une architecture client-serveur ?",
+        "options": [
+            {
+                "text": "Un ordinateur portable performant",
+                "correct": false
+            },
+            {
+                "text": "Un équipement qui dépend principalement du serveur central",
+                "correct": true
+            },
+            {
+                "text": "Un serveur de données local",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelles sont les bonnes pratiques pour réduire l'impact écologique d'un ordinateur ?",
+        "options": [
+            {
+                "text": "Allonger la durée de vie de l'ordinateur",
+                "correct": true
+            },
+            {
+                "text": "Privilégier les labels EPEAT ou TCO",
+                "correct": true
+            },
+            {
+                "text": "Laisser l'ordinateur allumé en permanence",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Comment réduire la consommation énergétique d'un écran ?",
+        "options": [
+            {
+                "text": "Éteindre l'écran lorsqu'il n'est pas utilisé",
+                "correct": true
+            },
+            {
+                "text": "Choisir un écran adapté à l'usage",
+                "correct": true
+            },
+            {
+                "text": "Augmenter la luminosité au maximum",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels sont les conseils pour réduire l'impact écologique d'un téléphone ?",
+        "options": [
+            {
+                "text": "Privilégier les labels TCO et EPEAT",
+                "correct": true
+            },
+            {
+                "text": "Baisser la luminosité de l'écran",
+                "correct": true
+            },
+            {
+                "text": "Changer de téléphone tous les 6 mois",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels labels environnementaux garantissent un impact réduit des équipements électroniques ?",
+        "options": [
+            {
+                "text": "EPEAT",
+                "correct": true
+            },
+            {
+                "text": "TCO",
+                "correct": true
+            },
+            {
+                "text": "Energy Star",
+                "correct": true
+            },
+            {
+                "text": "FastTech",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quelles sont les bonnes pratiques à adopter lors de l'achat d'un équipement ?",
+        "options": [
+            {
+                "text": "Ne pas acheter si ce n'est pas nécessaire",
+                "correct": true
+            },
+            {
+                "text": "Acheter du matériel d’occasion reconditionné",
+                "correct": true
+            },
+            {
+                "text": "Choisir le matériel le moins cher sans tenir compte des labels",
+                "correct": false
+            },
+            {
+                "text": "Prendre en compte l'indice de réparabilité",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels sont les bénéfices de l'achat de matériel reconditionné en entreprise ?",
+        "options": [
+            {
+                "text": "Réduire les impacts environnementaux",
+                "correct": true
+            },
+            {
+                "text": "Allonger la durée de vie du matériel",
+                "correct": true
+            },
+            {
+                "text": "Augmenter les coûts d'acquisition",
+                "correct": false
+            },
+            {
+                "text": "Montrer l'engagement écologique de l'entreprise",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Comment réduire la consommation énergétique d'un poste informatique ?",
+        "options": [
+            {
+                "text": "Activer les options d’économie d’énergie",
+                "correct": true
+            },
+            {
+                "text": "Baisser la luminosité de l'écran",
+                "correct": true
+            },
+            {
+                "text": "Laisser les appareils allumés en permanence",
+                "correct": false
+            },
+            {
+                "text": "Alimenter avec de l’énergie renouvelable",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Que peut-on faire à la fin de la vie d’un équipement informatique ?",
+        "options": [
+            {
+                "text": "Le jeter sans tri",
+                "correct": false
+            },
+            {
+                "text": "Le recycler",
+                "correct": true
+            },
+            {
+                "text": "Le reconditionner pour une nouvelle utilisation",
+                "correct": true
+            },
+            {
+                "text": "Réutiliser ses composants",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quel est un des avantages économiques d'une bonne gestion énergétique des postes informatiques ?",
+        "options": [
+            {
+                "text": "Économiser jusqu'à 1 à 10 euros par poste par an",
+                "correct": true
+            },
+            {
+                "text": "Augmenter les coûts de maintenance",
+                "correct": false
+            },
+            {
+                "text": "Accélérer l’obsolescence du matériel",
+                "correct": false
+            },
+            {
+                "text": "Réduire les coûts énergétiques",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quel est l'impact principal du télétravail sur l'environnement ?",
+        "options": [
+            {
+                "text": "Il réduit les émissions de gaz à effet de serre liées aux déplacements",
+                "correct": true
+            },
+            {
+                "text": "Il augmente la consommation énergétique des foyers",
+                "correct": false
+            },
+            {
+                "text": "Il double systématiquement l'achat de matériel informatique",
+                "correct": false
+            },
+            {
+                "text": "Il n'a aucun impact sur l'environnement",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelles sont les bonnes pratiques pour éviter le doublement du matériel en télétravail ?",
+        "options": [
+            {
+                "text": "Mettre en place une politique BYOD ou COPE",
+                "correct": true
+            },
+            {
+                "text": "Acheter du matériel neuf pour le bureau et pour la maison",
+                "correct": false
+            },
+            {
+                "text": "Partager le matériel entre plusieurs employés",
+                "correct": false
+            },
+            {
+                "text": "Utiliser un équipement unique pour le bureau et la maison",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Qu'est-ce que la politique BYOD ?",
+        "options": [
+            {
+                "text": "Une politique qui permet aux employés d'utiliser leurs appareils personnels au travail",
+                "correct": true
+            },
+            {
+                "text": "Un programme de location d'équipements informatiques pour les entreprises",
+                "correct": false
+            },
+            {
+                "text": "Une initiative pour recycler les équipements obsolètes",
+                "correct": false
+            },
+            {
+                "text": "Un label environnemental pour les équipements informatiques",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels sont les avantages de la politique BYOD ?",
+        "options": [
+            {
+                "text": "Une plus grande implication des utilisateurs",
+                "correct": true
+            },
+            {
+                "text": "Une réduction des coûts du matériel et des services",
+                "correct": true
+            },
+            {
+                "text": "Une meilleure sécurité informatique que COPE",
+                "correct": false
+            },
+            {
+                "text": "Une gestion plus centralisée des équipements",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels sont les inconvénients de la politique BYOD ?",
+        "options": [
+            {
+                "text": "Une sécurité plus difficile à faire respecter",
+                "correct": true
+            },
+            {
+                "text": "Un coût plus élevé pour l'entreprise",
+                "correct": false
+            },
+            {
+                "text": "Un remplacement compliqué en cas de casse de l'appareil",
+                "correct": true
+            },
+            {
+                "text": "Une meilleure séparation entre vie personnelle et professionnelle",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Qu'est-ce que la politique COPE ?",
+        "options": [
+            {
+                "text": "Une politique où l'entreprise fournit et gère les appareils informatiques pour ses employés",
+                "correct": true
+            },
+            {
+                "text": "Une stratégie pour réduire la consommation d'énergie des appareils électroniques",
+                "correct": false
+            },
+            {
+                "text": "Un programme gouvernemental de subvention pour l'achat de matériel informatique",
+                "correct": false
+            },
+            {
+                "text": "Une certification pour les équipements informatiques écologiques",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels sont les avantages de la politique COPE ?",
+        "options": [
+            {
+                "text": "Un meilleur équilibre entre vie personnelle et professionnelle",
+                "correct": true
+            },
+            {
+                "text": "Un renforcement des dispositifs de gestion et de sécurité",
+                "correct": true
+            },
+            {
+                "text": "Une liberté totale pour les utilisateurs dans le choix de leur matériel",
+                "correct": false
+            },
+            {
+                "text": "Une absence de responsabilité pour l'entreprise concernant le matériel",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels sont les inconvénients de la politique COPE ?",
+        "options": [
+            {
+                "text": "Une moindre liberté des utilisateurs",
+                "correct": true
+            },
+            {
+                "text": "Une dépendance accrue à l'innovation technologique",
+                "correct": true
+            },
+            {
+                "text": "Une sécurité plus difficile à gérer qu'avec BYOD",
+                "correct": false
+            },
+            {
+                "text": "Un coût plus élevé pour les employés",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quelle est une bonne pratique pour réduire l'impact environnemental du télétravail ?",
+        "options": [
+            {
+                "text": "Travailler en mode déconnecté quand c'est possible",
+                "correct": true
+            },
+            {
+                "text": "Utiliser exclusivement des data centers énergivores",
+                "correct": false
+            },
+            {
+                "text": "Multiplier le matériel informatique à domicile et au bureau",
+                "correct": false
+            },
+            {
+                "text": "Laisser ses appareils allumés en permanence",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels arguments utiliser pour convaincre un financier ou un dirigeant d'entreprise d'adopter une démarche numérique responsable ?",
+        "options": [
+            {
+                "text": "Parler du retour sur investissement (ROI)",
+                "correct": true
+            },
+            {
+                "text": "Évoquer le risque financier et d'image",
+                "correct": true
+            },
+            {
+                "text": "Commencer par parler de la planète et de l'éthique",
+                "correct": false
+            },
+            {
+                "text": "Mettre en avant les valeurs de l'entreprise",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels sont les arguments à mettre en avant pour convaincre un dirigeant politique d’adopter une démarche numérique responsable ?",
+        "options": [
+            {
+                "text": "Parler du risque d’image et du ROI",
+                "correct": true
+            },
+            {
+                "text": "Mettre en avant la concurrence et la notoriété",
+                "correct": true
+            },
+            {
+                "text": "Évoquer la qualité de vie au travail et le climat social",
+                "correct": true
+            },
+            {
+                "text": "Se concentrer uniquement sur les aspects environnementaux",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Comment convaincre les salariés d’adopter des pratiques numériques responsables ?",
+        "options": [
+            {
+                "text": "Montrer l’exemple",
+                "correct": true
+            },
+            {
+                "text": "Les former et expliquer les enjeux",
+                "correct": true
+            },
+            {
+                "text": "Les obliger à adopter ces pratiques sans explication",
+                "correct": false
+            },
+            {
+                "text": "Valoriser leurs efforts et leur donner l’opportunité d’agir",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Pourquoi est-il parfois difficile de convaincre d’adopter une démarche numérique responsable en entreprise ?",
+        "options": [
+            {
+                "text": "Les coûts sont visibles mais les bénéfices sont cachés",
+                "correct": true
+            },
+            {
+                "text": "Les bénéfices sont immédiats et évidents",
+                "correct": false
+            },
+            {
+                "text": "Il n’existe aucun retour sur investissement mesurable",
+                "correct": false
+            },
+            {
+                "text": "Les dirigeants ne sont pas intéressés par l’image de leur entreprise",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle est une bonne approche pour convaincre un décideur d’adopter une démarche numérique responsable ?",
+        "options": [
+            {
+                "text": "Commencer par parler du retour sur investissement et des risques financiers",
+                "correct": true
+            },
+            {
+                "text": "Ne parler que des aspects environnementaux et éthiques",
+                "correct": false
+            },
+            {
+                "text": "Ignorer les valeurs et la notoriété de l'entreprise",
+                "correct": false
+            },
+            {
+                "text": "Mettre en avant la qualité de vie au travail et le climat social",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels est la troisieme plus grande parts de marché des principaux fournisseurs de service du cloud avec Google et Amazon?",
+        "options": [
+            {
+                "text": "Microsoft",
+                "correct": true
+            },
+            {
+                "text": "Facebook",
+                "correct": false
+            },
+            {
+                "text": "Linux",
+                "correct": false
+            },
+            {
+                "text": "Fnac",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels est la troisieme plus grande parts de marché des principaux fournisseurs de service du cloud avec Google et Microsoft?",
+        "options": [
+            {
+                "text": "Facebook",
+                "correct": false
+            },
+            {
+                "text": "Linux",
+                "correct": false
+            },
+            {
+                "text": "Amazon",
+                "correct": true
+            },
+            {
+                "text": "Fnac",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels est la troisieme plus grande parts de marché des principaux fournisseurs de service du cloud avec Microsoft et Amazon?",
+        "options": [
+            {
+                "text": "Fnac",
+                "correct": false
+            },
+            {
+                "text": "Google",
+                "correct": true
+            },
+            {
+                "text": "Linux",
+                "correct": false
+            },
+            {
+                "text": "Facebook",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels est la durée de fabrication d'un data center?",
+        "options": [
+            {
+                "text": "18 mois",
+                "correct": true
+            },
+            {
+                "text": "32 mois",
+                "correct": false
+            },
+            {
+                "text": "10 mois",
+                "correct": false
+            },
+            {
+                "text": "2 mois",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels est la cout de fabrication d'un data center?",
+        "options": [
+            {
+                "text": "2 à 3 k€ /m2",
+                "correct": false
+            },
+            {
+                "text": "30 à 45 k€ /m2",
+                "correct": false
+            },
+            {
+                "text": "78 à 95 k€ /m2",
+                "correct": false
+            },
+            {
+                "text": "8 à 15 k€ /m2",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels est la durée minimun de vie d'un data center?",
+        "options": [
+            {
+                "text": "100 ans minimum",
+                "correct": false
+            },
+            {
+                "text": "5 ans minimum",
+                "correct": true
+            },
+            {
+                "text": "30 ans minimum",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels est la durée idéal de vie d'un data center?",
+        "options": [
+            {
+                "text": "15 à 20 ans dans l’idéal.",
+                "correct": true
+            },
+            {
+                "text": "2 à 5 ans dans l’idéal.",
+                "correct": false
+            },
+            {
+                "text": "50 à 60 ans dans l’idéal.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est le pourcentage de l'impacts environnemental du service numérique imputable aux data centers.",
+        "options": [
+            {
+                "text": "10 à 15 %",
+                "correct": true
+            },
+            {
+                "text": "25 a 30 %",
+                "correct": false
+            },
+            {
+                "text": "+ 50 %",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est le pourcentage de l'impacts environnemental du réseau (antennes et transport des données).",
+        "options": [
+            {
+                "text": "10 à 15 %",
+                "correct": false
+            },
+            {
+                "text": "25 a 30 %",
+                "correct": true
+            },
+            {
+                "text": "+ 50 %",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est le pourcentage de l'impacts du bilan environnemental du terminal utilisateur",
+        "options": [
+            {
+                "text": "10 à 15 %",
+                "correct": false
+            },
+            {
+                "text": "25 a 30 %",
+                "correct": false
+            },
+            {
+                "text": "+ 50 %",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Le transfert de données des data centers vers les utilisateurs représente .... % du trafic de la donnée.",
+        "options": [
+            {
+                "text": "15 %",
+                "correct": true
+            },
+            {
+                "text": "50 %",
+                "correct": false
+            },
+            {
+                "text": "70 %",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Le transfert des données des data centers entre eux représente ... % du trafic de la donnée.",
+        "options": [
+            {
+                "text": "15 %",
+                "correct": true
+            },
+            {
+                "text": "50 %",
+                "correct": false
+            },
+            {
+                "text": "70 %",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Le transfert des données au sein d’un data center représente ... % du trafic de la donnée.",
+        "options": [
+            {
+                "text": "15 %",
+                "correct": false
+            },
+            {
+                "text": "50 %",
+                "correct": false
+            },
+            {
+                "text": "70 %",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Plus un disque a une grand capacite ...",
+        "options": [
+            {
+                "text": "plus il consome d'énergie",
+                "correct": false
+            },
+            {
+                "text": "moins il consome d'énergie",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Plus un disque est performant ...",
+        "options": [
+            {
+                "text": "plus il consome d'énergie",
+                "correct": true
+            },
+            {
+                "text": "moins il consome d'énergie",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "L’écart entre la technologie la plus sobre et la plus énergivore peut varier d’un facteur de ...",
+        "options": [
+            {
+                "text": "5",
+                "correct": false
+            },
+            {
+                "text": "30",
+                "correct": true
+            },
+            {
+                "text": "100",
+                "correct": false
+            },
+            {
+                "text": "500",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Combien d'ordinateurs sont vendus en France chaque année ?",
+        "options": [
+            {
+                "text": "310 000",
+                "correct": false
+            },
+            {
+                "text": "3,1 millions",
+                "correct": true
+            },
+            {
+                "text": "31 millions",
+                "correct": false
+            },
+            {
+                "text": "0,31 million",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Combien y a-t-il d’utilisateurs du numérique dans le monde ?",
+        "options": [
+            {
+                "text": "450 millions",
+                "correct": false
+            },
+            {
+                "text": "4,5 milliards",
+                "correct": true
+            },
+            {
+                "text": "45 milliards",
+                "correct": false
+            },
+            {
+                "text": "0,45 milliard",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Combien de smartphones sont achetés dans le monde chaque seconde ?",
+        "options": [
+            {
+                "text": "4",
+                "correct": false
+            },
+            {
+                "text": "40",
+                "correct": true
+            },
+            {
+                "text": "400",
+                "correct": false
+            },
+            {
+                "text": "0,4",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Combien d’e-mails sont envoyés chaque jour dans le monde ?",
+        "options": [
+            {
+                "text": "28,1 milliards",
+                "correct": false
+            },
+            {
+                "text": "281 milliards",
+                "correct": true
+            },
+            {
+                "text": "2 810 milliards",
+                "correct": false
+            },
+            {
+                "text": "2,81 milliards",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Combien de tweets sont publiés chaque jour ?",
+        "options": [
+            {
+                "text": "5 millions",
+                "correct": false
+            },
+            {
+                "text": "50 millions",
+                "correct": true
+            },
+            {
+                "text": "500 millions",
+                "correct": false
+            },
+            {
+                "text": "0,5 million",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Combien de pages sont imprimées par jour et par salarié ?",
+        "options": [
+            {
+                "text": "3,1",
+                "correct": false
+            },
+            {
+                "text": "31",
+                "correct": true
+            },
+            {
+                "text": "310",
+                "correct": false
+            },
+            {
+                "text": "0,31",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Combien d’objets connectés existaient en 2020 ?",
+        "options": [
+            {
+                "text": "5 milliards",
+                "correct": false
+            },
+            {
+                "text": "50 milliards",
+                "correct": true
+            },
+            {
+                "text": "500 milliards",
+                "correct": false
+            },
+            {
+                "text": "0,5 milliard",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle est la consommation électrique quotidienne d’un poste de travail au bureau ?",
+        "options": [
+            {
+                "text": "0,4 kWh",
+                "correct": false
+            },
+            {
+                "text": "4 kWh",
+                "correct": true
+            },
+            {
+                "text": "40 kWh",
+                "correct": false
+            },
+            {
+                "text": "400 kWh",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Combien de tonnes de déchets électroniques ont été produites en 2019 dans le monde ?",
+        "options": [
+            {
+                "text": "5,3 millions de tonnes",
+                "correct": false
+            },
+            {
+                "text": "53 millions de tonnes",
+                "correct": true
+            },
+            {
+                "text": "530 millions de tonnes",
+                "correct": false
+            },
+            {
+                "text": "0,53 million de tonnes",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "De combien a augmenté le nombre de déchets électroniques en 5 ans ?",
+        "options": [
+            {
+                "text": "2,1%",
+                "correct": false
+            },
+            {
+                "text": "21%",
+                "correct": true
+            },
+            {
+                "text": "210%",
+                "correct": false
+            },
+            {
+                "text": "0,21%",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est le taux de recyclage des déchets électroniques ?",
+        "options": [
+            {
+                "text": "1,74%",
+                "correct": false
+            },
+            {
+                "text": "17,4%",
+                "correct": true
+            },
+            {
+                "text": "174%",
+                "correct": false
+            },
+            {
+                "text": "0,174%",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels sont certains effets négatifs du télétravail ?",
+        "options": [
+            {
+                "text": "Isolement social",
+                "correct": true
+            },
+            {
+                "text": "Augmentation de la consommation d’énergie",
+                "correct": true
+            },
+            {
+                "text": "Sollicitation des serveurs nécessaires aux services de visioconférence",
+                "correct": true
+            },
+            {
+                "text": "Diminution du stress lié au travail",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Combien de matière faut-il pour fabriquer un smartphone de 5,5 pouces ?",
+        "options": [
+            {
+                "text": "20 kg",
+                "correct": false
+            },
+            {
+                "text": "200 kg",
+                "correct": true
+            },
+            {
+                "text": "2000 kg",
+                "correct": false
+            },
+            {
+                "text": "2 kg",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi le recyclage des smartphones est-il difficile ?",
+        "options": [
+            {
+                "text": "Ils contiennent 50 à 60 éléments",
+                "correct": true
+            },
+            {
+                "text": "Ils sont composés de 70 matériaux différents",
+                "correct": true
+            },
+            {
+                "text": "Ils sont conçus pour durer 50 ans",
+                "correct": false
+            },
+            {
+                "text": "Leur écran est fait d’un seul matériau recyclable",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels sont les conflits d’usage causés par l’industrie numérique ?",
+        "options": [
+            {
+                "text": "Consommation d'électricité",
+                "correct": true
+            },
+            {
+                "text": "Consommation d’eau",
+                "correct": true
+            },
+            {
+                "text": "Épuisement des ressources abiotiques (métaux rares)",
+                "correct": true
+            },
+            {
+                "text": "Réduction de la pollution mondiale",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quel événement a révélé la pénurie de puces électroniques en 2021 ?",
+        "options": [
+            {
+                "text": "Une hausse soudaine de la demande en ordinateurs",
+                "correct": false
+            },
+            {
+                "text": "Une sécheresse sans précédent à Taïwan",
+                "correct": true
+            },
+            {
+                "text": "Un incendie dans une usine de production de puces",
+                "correct": false
+            },
+            {
+                "text": "Un boycott des matières premières",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel pourcentage des émissions mondiales de gaz à effet de serre est généré par le numérique ?",
+        "options": [
+            {
+                "text": "0,38%",
+                "correct": false
+            },
+            {
+                "text": "3,8%",
+                "correct": true
+            },
+            {
+                "text": "38%",
+                "correct": false
+            },
+            {
+                "text": "0,038%",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel secteur émet moins de gaz à effet de serre que le numérique ?",
+        "options": [
+            {
+                "text": "L’aviation civile",
+                "correct": true
+            },
+            {
+                "text": "L’industrie automobile",
+                "correct": false
+            },
+            {
+                "text": "Le transport maritime",
+                "correct": false
+            },
+            {
+                "text": "L’industrie textile",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Combien de données générons-nous en moyenne chaque année en ligne ?",
+        "options": [
+            {
+                "text": "400 Go",
+                "correct": false
+            },
+            {
+                "text": "4 000 Go",
+                "correct": false
+            },
+            {
+                "text": "Plus de 4 000 Go",
+                "correct": true
+            },
+            {
+                "text": "40 000 Go",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel pourcentage des téléphones est recyclé en France ?",
+        "options": [
+            {
+                "text": "1,5%",
+                "correct": false
+            },
+            {
+                "text": "15%",
+                "correct": true
+            },
+            {
+                "text": "30%",
+                "correct": false
+            },
+            {
+                "text": "0,15%",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels déchets toxiques sont générés par la production de terres rares ?",
+        "options": [
+            {
+                "text": "60 000 m³ de déchets gazeux contenant de l’acide chlorhydrique",
+                "correct": true
+            },
+            {
+                "text": "200 m³ d’acide déversé dans l’eau",
+                "correct": true
+            },
+            {
+                "text": "1 à 1,4 tonnes de déchets radioactifs",
+                "correct": true
+            },
+            {
+                "text": "10 millions de litres d’huile usagée",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quelle est la définition de l'obsolescence indirecte ?",
+        "options": [
+            {
+                "text": "Applications/OS trop énergivores qui nécessitent un changement de matériel.",
+                "correct": true
+            },
+            {
+                "text": "Fin du support technique.",
+                "correct": false
+            },
+            {
+                "text": "Nouveaux formats rendant les anciennes versions inutilisables.",
+                "correct": false
+            },
+            {
+                "text": "Adoption de logiciels « à la mode » plutôt que des versions antérieures.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle est la définition de l'obsolescence directe ?",
+        "options": [
+            {
+                "text": "Applications/OS trop énergivores qui nécessitent un changement de matériel.",
+                "correct": false
+            },
+            {
+                "text": "Fin du support technique.",
+                "correct": true
+            },
+            {
+                "text": "Nouveaux formats rendant les anciennes versions inutilisables.",
+                "correct": false
+            },
+            {
+                "text": "Adoption de logiciels « à la mode » plutôt que des versions antérieures.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle est la définition de l'obsolescence par incompatibilité ?",
+        "options": [
+            {
+                "text": "Applications/OS trop énergivores qui nécessitent un changement de matériel.",
+                "correct": false
+            },
+            {
+                "text": "Fin du support technique.",
+                "correct": false
+            },
+            {
+                "text": "Nouveaux formats rendant les anciennes versions inutilisables.",
+                "correct": true
+            },
+            {
+                "text": "Adoption de logiciels « à la mode » plutôt que des versions antérieures.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle est la définition de l'obsolescence perçue ?",
+        "options": [
+            {
+                "text": "Applications/OS trop énergivores qui nécessitent un changement de matériel.",
+                "correct": false
+            },
+            {
+                "text": "Fin du support technique.",
+                "correct": false
+            },
+            {
+                "text": "Nouveaux formats rendant les anciennes versions inutilisables.",
+                "correct": false
+            },
+            {
+                "text": "Adoption de logiciels « à la mode » plutôt que des versions antérieures.",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi est-il important de mesurer l’empreinte écologique du numérique ?",
+        "options": [
+            {
+                "text": "Pour comptabiliser la pression exercée par l’humanité sur les ressources et la nature.",
+                "correct": true
+            },
+            {
+                "text": "Pour savoir combien de temps nous passons en ligne.",
+                "correct": false
+            },
+            {
+                "text": "Pour justifier l’augmentation des prix des services numériques.",
+                "correct": false
+            },
+            {
+                "text": "Pour interdire l’utilisation de certaines technologies.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Si le numérique était un pays, quelle serait son empreinte écologique comparée à la France ?",
+        "options": [
+            {
+                "text": "Équivalente à celle de la France.",
+                "correct": false
+            },
+            {
+                "text": "2 à 3 fois l’empreinte écologique de la France.",
+                "correct": true
+            },
+            {
+                "text": "Inférieure à celle de la France.",
+                "correct": false
+            },
+            {
+                "text": "10 fois supérieure à celle de la France.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle est l’empreinte carbone des Français due aux achats et usages Internet et technologies ?",
+        "options": [
+            {
+                "text": "180 kg eq CO₂ par an.",
+                "correct": false
+            },
+            {
+                "text": "1180 kg eq CO₂ par an.",
+                "correct": true
+            },
+            {
+                "text": "5000 kg eq CO₂ par an.",
+                "correct": false
+            },
+            {
+                "text": "10 kg eq CO₂ par an.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi la création de logiciels et d’applications inutilisés est-elle un problème économique ?",
+        "options": [
+            {
+                "text": "Elle mobilise du temps, des ressources et du budget pour un usage limité ou inexistant.",
+                "correct": true
+            },
+            {
+                "text": "Elle permet de tester de nouvelles fonctionnalités.",
+                "correct": false
+            },
+            {
+                "text": "Elle favorise l'innovation dans l'industrie numérique.",
+                "correct": false
+            },
+            {
+                "text": "Elle réduit le coût des logiciels.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi les écrans, ordinateurs et téléphones sont-ils devenus des biens jetables ?",
+        "options": [
+            {
+                "text": "Ils sont parfois moins robustes et conçus pour être remplacés rapidement, ce qui pousse à la surconsommation.",
+                "correct": true
+            },
+            {
+                "text": "Ils sont trop chers pour être conservés longtemps.",
+                "correct": false
+            },
+            {
+                "text": "Les utilisateurs préfèrent acheter des nouveaux modèles chaque année.",
+                "correct": false
+            },
+            {
+                "text": "Ils sont interdits à la revente d’occasion.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Qu’est-ce que l’effet rebond ?",
+        "options": [
+            {
+                "text": "C’est lorsque les améliorations technologiques augmentent l’efficacité d’une ressource, mais entraînent paradoxalement une augmentation de la consommation au lieu d’une réduction.",
+                "correct": true
+            },
+            {
+                "text": "C’est une baisse soudaine de la consommation après une innovation technologique.",
+                "correct": false
+            },
+            {
+                "text": "C’est un effet psychologique qui pousse les consommateurs à éviter les nouvelles technologies.",
+                "correct": false
+            },
+            {
+                "text": "C’est le retour des anciennes technologies après un échec des nouvelles.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels sont les avantages économiques du numérique ?",
+        "options": [
+            {
+                "text": "Il crée de nouvelles économies et façons de travailler.",
+                "correct": true
+            },
+            {
+                "text": "Il améliore la productivité et la performance.",
+                "correct": true
+            },
+            {
+                "text": "Il accélère les échanges et facilite la prise de décision.",
+                "correct": true
+            },
+            {
+                "text": "Il réduit complètement les inégalités économiques.",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Comment le numérique peut-il favoriser la croissance des entreprises ?",
+        "options": [
+            {
+                "text": "Grâce à l’optimisation des processus, la communication instantanée et l’accès à de nouveaux marchés.",
+                "correct": true
+            },
+            {
+                "text": "En rendant les entreprises totalement indépendantes des fournisseurs.",
+                "correct": false
+            },
+            {
+                "text": "En supprimant complètement le besoin de main-d'œuvre.",
+                "correct": false
+            },
+            {
+                "text": "En garantissant une croissance automatique sans effort.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels sont les métaux secondaires utilisés dans la fabrication des équipements IT ?",
+        "options": [
+            {
+                "text": "Le gallium",
+                "correct": true
+            },
+            {
+                "text": "L’indium",
+                "correct": true
+            },
+            {
+                "text": "Le fer",
+                "correct": false
+            },
+            {
+                "text": "Le plomb",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Pourquoi la production des métaux secondaires (tels que l’indium et le gallium) nécéssaire à l'industrie numérique est-elle difficile ?",
+        "options": [
+            {
+                "text": "Parce qu’ils sont des sous-produits de la fabrication de métaux primaires (comme l’aluminium et le cuivre), donc leur disponibilité dépend de ces marchés.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’ils ne sont exploité que dans certains pays.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’ils sont rares et produits en quantité limitée.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’ils ne sont plus utilisés dans l’industrie technologique.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est l’impact de la dépendance du secteur de la production IT sur le marché des métaux secondaires ?",
+        "options": [
+            {
+                "text": "Une forte volatilité des prix.",
+                "correct": true
+            },
+            {
+                "text": "Une stabilité totale des prix.",
+                "correct": false
+            },
+            {
+                "text": "Une baisse continue des coûts de production.",
+                "correct": false
+            },
+            {
+                "text": "Une disparition progressive de ces métaux.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi le numérique peut-il être un facteur d’isolement social ?",
+        "options": [
+            {
+                "text": "Les objets numériques peuvent être addictifs et réduire les interactions sociales.",
+                "correct": true
+            },
+            {
+                "text": "Les personnes non formées ou vivant dans des zones sans infrastructures numériques subissent une fracture numérique.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’il empêche totalement les gens de se parler.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’il interdit légalement les contacts physiques.",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Qu’est-ce que la fracture numérique ?",
+        "options": [
+            {
+                "text": "C’est l’inégalité d’accès et de compétences face aux outils numériques, souvent due à un manque de formation ou d’infrastructures.",
+                "correct": true
+            },
+            {
+                "text": "C’est une panne généralisée des réseaux informatiques.",
+                "correct": false
+            },
+            {
+                "text": "C’est l’interdiction des technologies numériques dans certains pays.",
+                "correct": false
+            },
+            {
+                "text": "C’est la difficulté d’utiliser un ordinateur pour la première fois.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi l’impact du DAS (Débit d’Absorption Spécifique) est-il une préoccupation ?",
+        "options": [
+            {
+                "text": "Nous ne connaissons pas encore précisément ses effets sur la santé, ce qui implique un principe de précaution.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’il empêche les téléphones de fonctionner correctement.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’il empêche le bon affichage des applications.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’il augmente la vitesse de charge des batteries.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "En quoi les objets numériques peuvent-ils poser problème aux personnes en situation de handicap ?",
+        "options": [
+            {
+                "text": "Lorsqu’ils ne sont pas conçus pour être accessibles, ils limitent l’autonomie des personnes déficientes.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’ils sont interdits aux personnes en situation de handicap.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’ils sont trop complexes à utiliser pour tout le monde.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’ils sont trop grands et encombrants.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi le numérique peut-il être un facteur d’isolement social ?",
+        "options": [
+            {
+                "text": "Les objets numériques peuvent être addictifs et réduire les interactions sociales.",
+                "correct": true
+            },
+            {
+                "text": "Les personnes non formées ou vivant dans des zones sans infrastructures numériques subissent une fracture numérique.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’il empêche totalement les rencontres physiques.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’il interdit aux gens de sortir de chez eux.",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Qu’est-ce que la fracture numérique ?",
+        "options": [
+            {
+                "text": "C’est l’inégalité d’accès et de compétences face aux outils numériques, souvent due à un manque de formation ou d’infrastructures.",
+                "correct": true
+            },
+            {
+                "text": "C’est une coupure totale des connexions internet.",
+                "correct": false
+            },
+            {
+                "text": "C’est l’interdiction de l’usage du numérique dans certaines régions.",
+                "correct": false
+            },
+            {
+                "text": "C’est la difficulté d’utiliser une technologie avancée.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi l’impact du DAS (Débit d’Absorption Spécifique) est-il une préoccupation ?",
+        "options": [
+            {
+                "text": "Nous ne connaissons pas encore précisément ses effets sur la santé, ce qui implique un principe de précaution.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’il réduit la vitesse de connexion internet.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’il empêche les smartphones de fonctionner correctement.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’il affecte la durée de vie des batteries.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "En quoi les objets numériques peuvent-ils poser problème aux personnes en situation de handicap ?",
+        "options": [
+            {
+                "text": "Lorsqu’ils ne sont pas conçus pour être accessibles, ils limitent l’autonomie des personnes déficientes.",
+                "correct": true
+            },
+            {
+                "text": "Parce qu’ils sont trop chers pour être achetés par tous.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’ils nécessitent un niveau d’étude élevé pour être utilisés.",
+                "correct": false
+            },
+            {
+                "text": "Parce qu’ils consomment trop d’électricité.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Comment le numérique favorise-t-il le travail à distance ?",
+        "options": [
+            {
+                "text": "Il permet aux entreprises de fonctionner sans présence physique, ce qui peut dynamiser des territoires moins urbanisés.",
+                "correct": true
+            },
+            {
+                "text": "Il interdit aux entreprises d'avoir des locaux physiques.",
+                "correct": false
+            },
+            {
+                "text": "Il empêche les déplacements professionnels.",
+                "correct": false
+            },
+            {
+                "text": "Il réduit les interactions entre collègues.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "En quoi le numérique facilite-t-il le lien social ?",
+        "options": [
+            {
+                "text": "Il permet de rester en contact avec ses proches, partout dans le monde.",
+                "correct": true
+            },
+            {
+                "text": "Il supprime le besoin de communication physique.",
+                "correct": false
+            },
+            {
+                "text": "Il remplace totalement les interactions en face à face.",
+                "correct": false
+            },
+            {
+                "text": "Il rend les relations sociales plus compliquées.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Comment le numérique aide-t-il les personnes en situation de handicap ?",
+        "options": [
+            {
+                "text": "Grâce aux technologies d’assistance comme les outils d’agrandissement, les lecteurs d’écran ou les synthèses vocales.",
+                "correct": true
+            },
+            {
+                "text": "En supprimant les obstacles numériques.",
+                "correct": false
+            },
+            {
+                "text": "En interdisant les interfaces complexes.",
+                "correct": false
+            },
+            {
+                "text": "En rendant obligatoire l’usage de l’audio.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Qu’est-ce que l’illectronisme et quelle est son ampleur en France ?",
+        "options": [
+            {
+                "text": "C’est la difficulté ou l’incapacité à utiliser les outils numériques. En 2019, il touchait 17% de la population française selon l’INSEE.",
+                "correct": true
+            },
+            {
+                "text": "C’est l’interdiction d’accéder à Internet dans certaines régions.",
+                "correct": false
+            },
+            {
+                "text": "C’est un phénomène qui touche uniquement les personnes âgées.",
+                "correct": false
+            },
+            {
+                "text": "C’est la perte d’accès aux services numériques après une panne.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels sont les principaux obstacles à l’accessibilité numérique ?",
+        "options": [
+            {
+                "text": "L’accès aux contenus et services web peut être limité pour les personnes handicapées, en fonction de leurs dispositifs et de leur environnement.",
+                "correct": true
+            },
+            {
+                "text": "Le numérique est trop cher pour être accessible à tous.",
+                "correct": false
+            },
+            {
+                "text": "L’utilisation d’Internet est réservée aux experts en informatique.",
+                "correct": false
+            },
+            {
+                "text": "Il n’existe aucun cadre légal pour améliorer l’accessibilité.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelles solutions existent pour améliorer l’accessibilité numérique des personnes atteintes de déficience visuelle ?",
+        "options": [
+            {
+                "text": "Agrandisseurs de texte",
+                "correct": true
+            },
+            {
+                "text": "Logiciels d’agrandissement",
+                "correct": true
+            },
+            {
+                "text": "Lecteurs d’écran",
+                "correct": true
+            },
+            {
+                "text": "Casques audio haute définition",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quelles solutions existent pour améliorer l’accessibilité numérique des personnes atteintes d’un handicap auditif ?",
+        "options": [
+            {
+                "text": "Sous-titrage",
+                "correct": true
+            },
+            {
+                "text": "Traduction en langue des signes",
+                "correct": true
+            },
+            {
+                "text": "Augmentation du volume sonore",
+                "correct": false
+            },
+            {
+                "text": "Remplacement des vidéos par des textes",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quelles solutions existent pour améliorer l’accessibilité numérique des personnes ayant des difficultés motrices ?",
+        "options": [
+            {
+                "text": "Souris adaptées",
+                "correct": true
+            },
+            {
+                "text": "Commandes vocales",
+                "correct": true
+            },
+            {
+                "text": "Accès clavier",
+                "correct": true
+            },
+            {
+                "text": "Suppression de toutes les interactions numériques",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quelles solutions existent pour améliorer l’accessibilité numérique des personnes ayant des difficultés cognitives ?",
+        "options": [
+            {
+                "text": "Navigation par icônes",
+                "correct": true
+            },
+            {
+                "text": "Reconnaissance vocale",
+                "correct": true
+            },
+            {
+                "text": "Interface simplifiée",
+                "correct": true
+            },
+            {
+                "text": "Augmentation du nombre de menus et sous-menus",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Qu’est-ce que le Référentiel Général d’Amélioration de l’Accessibilité (RGAA) et à quoi sert-il ?",
+        "options": [
+            {
+                "text": "C'est une norme visant à rendre les outils numériques accessibles à tous.",
+                "correct": true
+            },
+            {
+                "text": "C’est une réglementation qui interdit les sites web non accessibles.",
+                "correct": false
+            },
+            {
+                "text": "C’est un programme gouvernemental de développement numérique.",
+                "correct": false
+            },
+            {
+                "text": "C’est une norme de sécurité des données en ligne.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Comment le numérique est-il impliqué dans des tensions politiques et des conflits armés ?",
+        "options": [
+            {
+                "text": "L'extraction de matières premières nécessaires aux technologies numériques (comme le cobalt et le tantale) finance des conflits armés, notamment en République Démocratique du Congo. Ces ressources sont appelées 'minéraux de conflit'.",
+                "correct": true
+            },
+            {
+                "text": "Les nouvelles technologies empêchent totalement les tensions politiques.",
+                "correct": false
+            },
+            {
+                "text": "Le numérique n’a aucun lien avec les conflits armés.",
+                "correct": false
+            },
+            {
+                "text": "Les tensions politiques sont uniquement causées par des problèmes énergétiques.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi est-il difficile de tracer l'origine des métaux utilisés dans les équipements numériques ?",
+        "options": [
+            {
+                "text": "Les chaînes d'approvisionnement sont complexes, et les métaux peuvent transiter par des intermédiaires rendant leur traçabilité quasiment impossible.",
+                "correct": true
+            },
+            {
+                "text": "Les métaux sont toujours extraits dans des pays transparents.",
+                "correct": false
+            },
+            {
+                "text": "Les entreprises publient systématiquement l’origine de leurs matières premières.",
+                "correct": false
+            },
+            {
+                "text": "Les équipements numériques ne contiennent pas de métaux rares.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi la collecte massive de données personnelles pose-t-elle problème ?",
+        "options": [
+            {
+                "text": "Nos vies sont de plus en plus surveillées à travers la vidéosurveillance et la collecte de données numériques, ce qui pose des questions sur l'utilisation et la protection de ces informations.",
+                "correct": true
+            },
+            {
+                "text": "Elle permet de garantir une transparence totale des gouvernements.",
+                "correct": false
+            },
+            {
+                "text": "Elle empêche toute forme de cybercriminalité.",
+                "correct": false
+            },
+            {
+                "text": "Elle est strictement encadrée et ne pose aucun risque.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelles sont les différences entre le RGPD et le Cloud Act ?",
+        "options": [
+            {
+                "text": "RGPD (Règlement Général sur la Protection des Données - UE) : protège les données personnelles des citoyens européens et impose des règles strictes aux entreprises depuis 2018.",
+                "correct": true
+            },
+            {
+                "text": "Cloud Act (USA) : permet aux autorités américaines d'accéder aux données stockées dans le Cloud, même si elles sont hébergées à l’étranger.",
+                "correct": true
+            },
+            {
+                "text": "Le RGPD et le Cloud Act sont identiques dans leur application.",
+                "correct": false
+            },
+            {
+                "text": "Le RGPD ne concerne que les données des entreprises américaines.",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Pourquoi le trafic des déchets électroniques est-il un problème politique ?",
+        "options": [
+            {
+                "text": "En 2019, plus de 50 millions de tonnes de déchets électroniques ont été produits, dont 70% ont été exportés illégalement vers l'Afrique et l'Asie du Sud-Est. Interpol estime que ce trafic est comparable au trafic de drogue en termes d'ampleur financière.",
+                "correct": true
+            },
+            {
+                "text": "Le trafic de déchets électroniques est un problème mineur sans réel impact mondial.",
+                "correct": false
+            },
+            {
+                "text": "Les déchets électroniques sont toujours traités dans leur pays d’origine.",
+                "correct": false
+            },
+            {
+                "text": "Le recyclage des déchets électroniques est totalement maîtrisé.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle est l'étape la plus impactante pour l’environnement dans la production de papier ?",
+        "options": [
+            {
+                "text": "La récolte des arbres",
+                "correct": false
+            },
+            {
+                "text": "L'impression et la distribution du papier",
+                "correct": false
+            },
+            {
+                "text": "La transformation du bois en pâte à papier",
+                "correct": true
+            },
+            {
+                "text": "Le recyclage du papier",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est l'ordre de grandeur du volume d'impressions attribué aux e-mails ?",
+        "options": [
+            {
+                "text": "Moins de 10%",
+                "correct": false
+            },
+            {
+                "text": "Entre 10% et 21%",
+                "correct": false
+            },
+            {
+                "text": "Entre 10% et 38%",
+                "correct": true
+            },
+            {
+                "text": "Plus de 50%",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle affirmation est correcte concernant les impressions inutiles ?",
+        "options": [
+            {
+                "text": "La majorité des impressions ne sont jamais lues",
+                "correct": false
+            },
+            {
+                "text": "Environ un quart des impressions sont jetées dans les 5 minutes après impression",
+                "correct": true
+            },
+            {
+                "text": "Toutes les impressions sont consultées au moins une fois",
+                "correct": false
+            },
+            {
+                "text": "Les impressions inutiles représentent moins de 5% du total",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Parmi ces réglages d’imprimante, lequel n’est pas mentionné comme indispensable ?",
+        "options": [
+            {
+                "text": "Recto/verso activé par défaut",
+                "correct": false
+            },
+            {
+                "text": "Impression en noir et blanc par défaut",
+                "correct": false
+            },
+            {
+                "text": "Suppression automatique des pages blanches",
+                "correct": true
+            },
+            {
+                "text": "Mode brouillon activé par défaut",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pourquoi la mise en place d’une solution de libération des impressions par badge ou code est-elle recommandée ?",
+        "options": [
+            {
+                "text": "Elle permet de suivre précisément les coûts d’impression",
+                "correct": false
+            },
+            {
+                "text": "Elle évite les impressions non récupérées et inutiles",
+                "correct": true
+            },
+            {
+                "text": "Elle accélère le processus d’impression pour les utilisateurs",
+                "correct": false
+            },
+            {
+                "text": "Elle améliore la qualité des documents imprimés",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel élément joue un rôle dans la réduction des impressions inutiles et du gaspillage d'encre ?",
+        "options": [
+            {
+                "text": "L'utilisation de papier glacé pour améliorer la qualité d'impression",
+                "correct": false
+            },
+            {
+                "text": "L'impression systématique en haute qualité",
+                "correct": false
+            },
+            {
+                "text": "La configuration des imprimantes pour limiter les impressions par défaut",
+                "correct": true
+            },
+            {
+                "text": "L'augmentation de la taille des polices pour améliorer la lisibilité",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Parmi ces pratiques, laquelle ne fait pas partie des recommandations pour réduire l'impact des impressions ?",
+        "options": [
+            {
+                "text": "Utiliser des polices de caractères économes en encre, comme Ecofont",
+                "correct": false
+            },
+            {
+                "text": "Imprimer systématiquement en noir et blanc pour économiser les cartouches couleur",
+                "correct": true
+            },
+            {
+                "text": "Configurer l'imprimante pour imprimer en recto-verso par défaut",
+                "correct": false
+            },
+            {
+                "text": "Réduire la taille des marges pour optimiser l'utilisation du papier",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle certification impose un niveau de qualité initial aux forêts ?",
+        "options": [
+            {
+                "text": "PEFC",
+                "correct": false
+            },
+            {
+                "text": "FSC",
+                "correct": true
+            },
+            {
+                "text": "Blue Angel",
+                "correct": false
+            },
+            {
+                "text": "ISO 14001",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est le principal engagement des exploitants forestiers sous la certification PEFC ?",
+        "options": [
+            {
+                "text": "Respecter un cahier des charges strict sans évolution possible",
+                "correct": false
+            },
+            {
+                "text": "Garantir uniquement la replantation des arbres coupés",
+                "correct": false
+            },
+            {
+                "text": "S'engager dans une amélioration continue de leurs pratiques",
+                "correct": true
+            },
+            {
+                "text": "Utiliser exclusivement des arbres âgés de plus de 50 ans",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle affirmation est correcte concernant le label Blue Angel ?",
+        "options": [
+            {
+                "text": "Il garantit que les forêts sont protégées contre l’exploitation illégale",
+                "correct": false
+            },
+            {
+                "text": "Il certifie uniquement les produits en papier recyclé",
+                "correct": false
+            },
+            {
+                "text": "Il atteste que les produits et services labellisés respectent l’environnement",
+                "correct": true
+            },
+            {
+                "text": "Il a été créé par des entreprises françaises spécialisées dans le recyclage",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle différence principale existe entre les certifications FSC et PEFC ?",
+        "options": [
+            {
+                "text": "FSC impose un niveau de qualité initial, tandis que PEFC exige une amélioration continue",
+                "correct": true
+            },
+            {
+                "text": "PEFC impose un niveau de qualité initial, tandis que FSC exige une amélioration continue",
+                "correct": false
+            },
+            {
+                "text": "FSC et PEFC sont strictement identiques dans leurs exigences",
+                "correct": false
+            },
+            {
+                "text": "PEFC est un label allemand, alors que FSC est un label européen",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est l'un des principaux avantages écologiques du papier recyclé par rapport au papier issu de fibres vierges ?",
+        "options": [
+            {
+                "text": "Il réduit la consommation d'eau lors de la production",
+                "correct": true
+            },
+            {
+                "text": "Il nécessite moins d'énergie pour le blanchiment",
+                "correct": false
+            },
+            {
+                "text": "Il génère plus de déchets lors de la transformation",
+                "correct": false
+            },
+            {
+                "text": "Il utilise des produits chimiques moins nocifs pour l'environnement",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Combien d’eau est nécessaire pour produire une tonne de papier recyclé par rapport au papier vierge ?",
+        "options": [
+            {
+                "text": "22,2 L pour du papier recyclé contre 130,2 L pour du papier vierge",
+                "correct": true
+            },
+            {
+                "text": "130,2 L pour du papier recyclé contre 22,2 L pour du papier vierge",
+                "correct": false
+            },
+            {
+                "text": "103,5 L pour du papier recyclé contre 308,4 L pour du papier vierge",
+                "correct": false
+            },
+            {
+                "text": "308,4 L pour du papier recyclé contre 103,5 L pour du papier vierge",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle est la différence de consommation énergétique entre le papier recyclé et le papier vierge ?",
+        "options": [
+            {
+                "text": "Le papier recyclé nécessite 2 739 kWh par tonne, contre 9 193 kWh pour le papier vierge",
+                "correct": true
+            },
+            {
+                "text": "Le papier recyclé consomme 9 193 kWh par tonne, contre 2 739 kWh pour le papier vierge",
+                "correct": false
+            },
+            {
+                "text": "Les deux types de papier consomment environ la même quantité d’énergie",
+                "correct": false
+            },
+            {
+                "text": "Le papier recyclé consomme plus d’énergie que le papier vierge",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est l'impact du papier recyclé sur les émissions de CO₂ par rapport au papier vierge ?",
+        "options": [
+            {
+                "text": "Il émet plus de CO₂ que le papier vierge",
+                "correct": false
+            },
+            {
+                "text": "Il émet la même quantité de CO₂ que le papier vierge",
+                "correct": false
+            },
+            {
+                "text": "Il émet 1,4 kg de CO₂ par tonne contre 2,6 kg pour le papier vierge",
+                "correct": true
+            },
+            {
+                "text": "Il n’émet aucun CO₂",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Laquelle de ces polices consomme 24% moins d'encre que les autres ?",
+        "options": [
+            {
+                "text": "Times new roman",
+                "correct": false
+            },
+            {
+                "text": "Century Gothic",
+                "correct": false
+            },
+            {
+                "text": "Comic Sans",
+                "correct": true
+            },
+            {
+                "text": "Garamond",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Qu'elle est la part de résponsabilité du dioxyde de carbon (CO2) dans l'éffet de serre ?",
+        "options": [
+            {
+                "text": "33%",
+                "correct": true
+            },
+            {
+                "text": "10%",
+                "correct": false
+            },
+            {
+                "text": "90%",
+                "correct": false
+            },
+            {
+                "text": "66%",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Qu'elle est la cause principale de l'amission de méthane (CH4) ?",
+        "options": [
+            {
+                "text": "L'intensification des élevages et des culture",
+                "correct": true
+            },
+            {
+                "text": "Les feux de forêts",
+                "correct": false
+            },
+            {
+                "text": "Les volcans",
+                "correct": false
+            },
+            {
+                "text": "Les déchets",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels sont les 2 gazs principaux de l'éffet de serre ?",
+        "options": [
+            {
+                "text": "CO2, CH4",
+                "correct": true
+            },
+            {
+                "text": "CO2, O3",
+                "correct": false
+            },
+            {
+                "text": "CH4, O3",
+                "correct": false
+            },
+            {
+                "text": "N2O, H2O",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "En moyenne un citoyen français émet ? tonnes de CO2 équivalent via ses consommations énergétiques directes",
+        "options": [
+            {
+                "text": "0,9",
+                "correct": false
+            },
+            {
+                "text": "9",
+                "correct": true
+            },
+            {
+                "text": "99",
+                "correct": false
+            },
+            {
+                "text": "999",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "En moyenne un citoyen français émet ? tonnes en prenant en compte les émissions indirectes (contenu carbone de ses achats)",
+        "options": [
+            {
+                "text": "1,2",
+                "correct": false
+            },
+            {
+                "text": "12",
+                "correct": true
+            },
+            {
+                "text": "120",
+                "correct": false
+            },
+            {
+                "text": "1200",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "L'objectif est de passer à ? tonnes d'émission d'ici 2050 pour chaque citoyen pour respecter les accords de Paris.",
+        "options": [
+            {
+                "text": "20",
+                "correct": false
+            },
+            {
+                "text": "0,2",
+                "correct": false
+            },
+            {
+                "text": "2",
+                "correct": true
+            },
+            {
+                "text": "200",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "En août 2021, le Groupe d'experts intergouvernemental sur l'évolution du climat (GIEC) exprime que la température mondiale devrait atteindre +? °C d'ici 2030",
+        "options": [
+            {
+                "text": "0.2",
+                "correct": false
+            },
+            {
+                "text": "1.5",
+                "correct": true
+            },
+            {
+                "text": "5",
+                "correct": false
+            },
+            {
+                "text": "10",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Selon la synthèse 2019 du GIEC, le niveau de la mer a augmenté de ? par an en moyenne entre 2006 et 2015.",
+        "options": [
+            {
+                "text": "3,58 millimètres",
+                "correct": true
+            },
+            {
+                "text": "35,8 millimètres",
+                "correct": false
+            },
+            {
+                "text": "358 millimètres",
+                "correct": false
+            },
+            {
+                "text": "3,58 mètres",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Les 3 principaux impacts du changement climatique sont : la société, l'économie et ...",
+        "options": [
+            {
+                "text": "l'environnement",
+                "correct": true
+            },
+            {
+                "text": "La pollution",
+                "correct": false
+            },
+            {
+                "text": "La santé",
+                "correct": false
+            },
+            {
+                "text": "La culture",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Les 3 principaux impacts du changement climatique sont : la société, l'environnement et ...",
+        "options": [
+            {
+                "text": "l'économie",
+                "correct": true
+            },
+            {
+                "text": "La pollution",
+                "correct": false
+            },
+            {
+                "text": "La santé",
+                "correct": false
+            },
+            {
+                "text": "La culture",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Les 3 principaux impacts du changement climatique sont : l'environnement, l'économie et ...",
+        "options": [
+            {
+                "text": "la société",
+                "correct": true
+            },
+            {
+                "text": "La pollution",
+                "correct": false
+            },
+            {
+                "text": "La santé",
+                "correct": false
+            },
+            {
+                "text": "La culture",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "La consommation électrique du numérique mondial correspond à",
+        "options": [
+            {
+                "text": "-3% de l'électricité",
+                "correct": false
+            },
+            {
+                "text": "Entre 5,5% et 10% de l'électricité",
+                "correct": true
+            },
+            {
+                "text": "Entre 15% et 20% de l'électricité",
+                "correct": false
+            },
+            {
+                "text": "Entre 25% et 30% de l'électricité",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pour produire 1 MWh électrique avec l'énergie nucléaire, il faut",
+        "options": [
+            {
+                "text": "4167 litres d'eau",
+                "correct": true
+            },
+            {
+                "text": "325 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "42 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "50350 litres d'eau",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pour produire 1 MWh électrique avec le charbon, il faut",
+        "options": [
+            {
+                "text": "3804 litres d'eau",
+                "correct": true
+            },
+            {
+                "text": "734 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "52 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "60350 litres d'eau",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pour produire 1 MWh électrique avec la biomasse, il faut",
+        "options": [
+            {
+                "text": "3323 litres d'eau",
+                "correct": true
+            },
+            {
+                "text": "643 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "34 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "55840 litres d'eau",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pour produire 1 MWh électrique avec le gaz naturel, il faut",
+        "options": [
+            {
+                "text": "5937 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "965 litres d'eau",
+                "correct": true
+            },
+            {
+                "text": "63 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "77980 litres d'eau",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pour produire 1 MWh électrique avec la géothermie, il faut",
+        "options": [
+            {
+                "text": "7493 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "524 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "56 litres d'eau",
+                "correct": true
+            },
+            {
+                "text": "49030 litres d'eau",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Pour produire 1 MWh électrique avec la géothermie, il faut",
+        "options": [
+            {
+                "text": "7493 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "524 litres d'eau",
+                "correct": false
+            },
+            {
+                "text": "56 litres d'eau",
+                "correct": true
+            },
+            {
+                "text": "49030 litres d'eau",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "L'eau est une ressource infinie",
+        "options": [
+            {
+                "text": "vrai",
+                "correct": false
+            },
+            {
+                "text": "faux",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle fraction des métaux connus sur Terre est utilisée dans l'informatique ?",
+        "options": [
+            {
+                "text": "Environ 1/50",
+                "correct": false
+            },
+            {
+                "text": "Environ 9/10",
+                "correct": false
+            },
+            {
+                "text": "Environ 2/3",
+                "correct": true
+            },
+            {
+                "text": "Environ 1/10",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle conséquence est directement liée à l'épuisement des mines les plus concentrées ?",
+        "options": [
+            {
+                "text": "La diminution des impacts environnementaux",
+                "correct": false
+            },
+            {
+                "text": "L'augmentation de la concentration des minerais",
+                "correct": true
+            },
+            {
+                "text": "L'augmentation des impacts environnementaux",
+                "correct": false
+            },
+            {
+                "text": "La stabilité des prix sur le marché financier",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels facteurs, contribuent aux tensions sur le marché financier et à la volatilité des prix des métaux ?",
+        "options": [
+            {
+                "text": "Le recyclage efficace des métaux et la surabondance des ressources",
+                "correct": false
+            },
+            {
+                "text": "Les innovations en efficacité énergétique et les énergies nouvelles uniquement",
+                "correct": false
+            },
+            {
+                "text": "La mauvaise gestion du recyclage et l'épuisement des mines concentrées",
+                "correct": true
+            },
+            {
+                "text": "La diminution de l'usage des métaux dans l'informatique",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Chaque année, combien de fois la france consomme les ressources naturelles que la Terre peut régénérer ?",
+        "options": [
+            {
+                "text": "2,7 fois",
+                "correct": true
+            },
+            {
+                "text": "0,7 fois",
+                "correct": false
+            },
+            {
+                "text": "10 fois",
+                "correct": false
+            },
+            {
+                "text": "1 fois",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Chaque année, combien de fois le monde entier consomme les ressources naturelles que la Terre peut régénérer ?",
+        "options": [
+            {
+                "text": "0,4 fois",
+                "correct": false
+            },
+            {
+                "text": "8 fois",
+                "correct": false
+            },
+            {
+                "text": "10 fois",
+                "correct": false
+            },
+            {
+                "text": "1,75 fois",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Les trois domaines du développement durable sont : Société, économie et ...",
+        "options": [
+            {
+                "text": "environnment",
+                "correct": true
+            },
+            {
+                "text": "culture",
+                "correct": false
+            },
+            {
+                "text": "politique",
+                "correct": false
+            },
+            {
+                "text": "agriculture",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Les trois domaines du développement durable sont : Société, environnment et ...",
+        "options": [
+            {
+                "text": "économie",
+                "correct": true
+            },
+            {
+                "text": "culture",
+                "correct": false
+            },
+            {
+                "text": "politique",
+                "correct": false
+            },
+            {
+                "text": "agriculture",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Les trois domaines du développement durable sont : Environnement, économie et ...",
+        "options": [
+            {
+                "text": "société",
+                "correct": true
+            },
+            {
+                "text": "culture",
+                "correct": false
+            },
+            {
+                "text": "politique",
+                "correct": false
+            },
+            {
+                "text": "agriculture",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "En septembre 2015, les dirigeants internationaux se sont réunis aux Nations Unies et ont adopté ? Objectifs de Développement Durable (ODD).",
+        "options": [
+            {
+                "text": "17",
+                "correct": true
+            },
+            {
+                "text": "5",
+                "correct": false
+            },
+            {
+                "text": "30",
+                "correct": false
+            },
+            {
+                "text": "100",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "A quoi servent les ODD ?",
+        "options": [
+            {
+                "text": "À prendre en compte l'ensemble des problèmes actuels de notre planète.",
+                "correct": true
+            },
+            {
+                "text": "À appliquer, partout sur la planète, un même cadre d'action.",
+                "correct": true
+            },
+            {
+                "text": "À adapter son projet numérique selon un seul ODD.",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Le but de l'architecture est d'urbaniser et traduire les indicateurs stratégiques afin de rendre l’ensemble des services proposés :",
+        "options": [
+            {
+                "text": "peu couteux",
+                "correct": false
+            },
+            {
+                "text": "utilisable",
+                "correct": true
+            },
+            {
+                "text": "utile",
+                "correct": true
+            },
+            {
+                "text": "utilisé",
+                "correct": true
+            },
+            {
+                "text": "excentré",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Une architecure composée de services mutualisés permet d'éviter de générer :",
+        "options": [
+            {
+                "text": "des coûts inutiles",
+                "correct": true
+            },
+            {
+                "text": "des confusions chez les utilisateurs",
+                "correct": false
+            },
+            {
+                "text": "des applications inutiles",
+                "correct": true
+            },
+            {
+                "text": "des impacts environnementaux inutiles",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+    "question": "Quel compromis permettent les VMs dans un but d'optimisation ?",
+        "options": [
+            {
+                "text": "côut et main d'oeuvre",
+                "correct": false
+            },
+            {
+                "text": "restriction et isolation",
+                "correct": false
+            },
+            {
+                "text": "modularité et efficacité",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel serait la réduction de kWh/an si les serveur étaient remplacé par des VMs ?",
+        "options": [
+            {
+                "text": "1500 -> 75",
+                "correct": true
+            },
+            {
+                "text": "2000 -> 50",
+                "correct": false
+            },
+            {
+                "text": "900 -> 100",
+                "correct": false
+            },
+            {
+                "text": "1100 -> 280",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels éléments un service numérique regroupe-t-il ?",
+        "options": [
+            {
+                "text": "des data centers",
+                "correct": true
+            },
+            {
+                "text": "des logiciels",
+                "correct": true
+            },
+            {
+                "text": "des applications",
+                "correct": true
+            },
+            {
+                "text": "des équipements",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels sont les 3 constats clés concernant les impacts environnementaux des services numériques ?",
+        "options": [
+            {
+                "text": "ils répondent à des envies plus qu'à des besoins",
+                "correct": true
+            },
+            {
+                "text": "ils sont de plus en plus lourds",
+                "correct": true
+            },
+            {
+                "text": "ils coûtent de plus en plus cher",
+                "correct": false
+            },
+            {
+                "text": "le phénomène d'obsolescence s'intensifie",
+                "correct": true
+            },
+            {
+                "text": "ils coûtent de plus en plus cher",
+                "correct": false
+            },
+            {
+                "text": "ils sont de moins en moins accessibles aux anciennes générations",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quel est le pourcentage d'applications jamais utilisées provenant de services numériques ?",
+        "options": [
+            {
+                "text": "35%",
+                "correct": false
+            },
+            {
+                "text": "25%",
+                "correct": true
+            },
+            {
+                "text": "20%",
+                "correct": false
+            },
+            {
+                "text": "5%",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est le pourcentage d'entreprises achetant des applications qui seront sous utilisées ?",
+        "options": [
+            {
+                "text": "70%",
+                "correct": true
+            },
+            {
+                "text": "50%",
+                "correct": false
+            },
+            {
+                "text": "60%",
+                "correct": false
+            },
+            {
+                "text": "45%",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est le pourcentage d'applications sous utilisées et n'apportant pas de valeurs ?",
+        "options": [
+            {
+                "text": "7%",
+                "correct": false
+            },
+            {
+                "text": "15%",
+                "correct": true
+            },
+            {
+                "text": "10%",
+                "correct": false
+            },
+            {
+                "text": "12%",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel pourcentage du budget est alloués à des applications sous utilisées ?",
+        "options": [
+            {
+                "text": "4%",
+                "correct": false
+            },
+            {
+                "text": "10%",
+                "correct": false
+            },
+            {
+                "text": "2%",
+                "correct": false
+            },
+            {
+                "text": "5.8%",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est le prix des applications inutiles ou peu utiles à l'échelle européenne ?",
+        "options": [
+            {
+                "text": "100 millions",
+                "correct": false
+            },
+            {
+                "text": "1 milliard",
+                "correct": false
+            },
+            {
+                "text": "8 milliards",
+                "correct": false
+            },
+            {
+                "text": "16 milliards",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quel est le pourcentage de logiciels qui pourraient être supprimés sans nuire à l'utilité ?",
+        "options": [
+            {
+                "text": "10-50%",
+                "correct": true
+            },
+            {
+                "text": "1-20%",
+                "correct": false
+            },
+            {
+                "text": "5-10%",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelles sont les deux problématiques globales qui concernent la conception responsable des SNs ?",
+        "options": [
+            {
+                "text": "l'accessibilité",
+                "correct": true
+            },
+            {
+                "text": "l'illectronisme",
+                "correct": true
+            },
+            {
+                "text": "la rapidité d'accès au informations",
+                "correct": false
+            },
+            {
+                "text": "l'inclusivité",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Que signifie l'acronyme CoRSeN ?",
+        "options": [
+            {
+                "text": "Conception Responsable des Services Numériques",
+                "correct": true
+            },
+            {
+                "text": "Configuration des Réseaux et Sécurité Numérique",
+                "correct": false
+            },
+            {
+                "text": "Collaboration en Recherche Scientifique et Éducation Numérique",
+                "correct": false
+            },
+            {
+                "text": "Conception de Réseaux et Systèmes Éco-Numériques",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels sont les vertus du CoRSeN pour l'organisation ?",
+        "options": [
+            {
+                "text": "Elle réduit les impacts environnementaux de ses services",
+                "correct": true
+            },
+            {
+                "text": "Elle réduit les impacts sociaux.",
+                "correct": true
+            },
+            {
+                "text": "Elle est toujours reconnue comme bénéfique pour la réputation de l’entreprise.",
+                "correct": true
+            },
+            {
+                "text": "Elle renforce l’engagement des salariés, et la cohésion dans l’entreprise.",
+                "correct": true
+            },
+            {
+                "text": "Elle occasionne une montée en compétence des personnels impliqués.",
+                "correct": true
+            },
+            {
+                "text": "Elle réduit les erreurs des développeurs.",
+                "correct": false
+            },
+            {
+                "text": "Elle rend le produit intelligent.",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quel est l'un des principaux avantages écologiques du papier recyclé par rapport au papier issu de fibres vierges ?",
+        "options": [
+            {
+                "text": "Il nécessite 7,5 kg de bois pour sa fabrication",
+                "correct": false
+            },
+            {
+                "text": "Il ne consomme aucun bois",
+                "correct": true
+            },
+            {
+                "text": "Il émet plus de CO₂ lors de sa production",
+                "correct": false
+            },
+            {
+                "text": "Il utilise plus d’eau pour le traitement des fibres",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "À votre avis, en moyenne, quelle quantité de données génère par an notre activité en ligne ?",
+        "options": [
+            { "text": "2000 Go de données", "correct": false },
+            { "text": "Plus de 4000 Go de données", "correct": true },
+            { "text": "1 Tera Octet de données", "correct": false }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Selon vous, avec quelques bons gestes, quelle part de la consommation électrique des équipements informatiques pourrait être évitée ?",
+        "options": [
+            { "text": "1/4", "correct": true },
+            { "text": "1/3", "correct": false },
+            { "text": "1/2", "correct": false }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Selon vous, combien de pages par jour un salarié français imprime-t-il en moyenne ?",
+        "options": [
+            { "text": "20 pages", "correct": true },
+            { "text": "5 pages", "correct": false },
+            { "text": "40 pages", "correct": false }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Selon vous, est-ce qu’il vaut mieux lire sur écran ou imprimer ?",
+        "options": [
+            { "text": "Lire sur écran", "correct": false },
+            { "text": "Imprimer", "correct": false },
+            { "text": "Cela dépend de plusieurs facteurs", "correct": true }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Selon vous, en 10 ans, de quel pourcentage a augmenté l’activité des data centers ?",
+        "options": [
+            { "text": "6%", "correct": false },
+            { "text": "200%", "correct": false },
+            { "text": "550%", "correct": true }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Mais quelle consommation électrique supplémentaire cela représente ?",
+        "options": [
+            { "text": "6%", "correct": true },
+            { "text": "200%", "correct": false },
+            { "text": "550%", "correct": false }
+        ],
+        "type": "single"
+    }
+]
