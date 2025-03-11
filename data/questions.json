@@ -1772,28 +1772,6 @@
         "type": "single"
     },
     {
-        "question": "Pourquoi le numérique peut-il être un facteur d’isolement social ?",
-        "options": [
-            {
-                "text": "Les objets numériques peuvent être addictifs et réduire les interactions sociales.",
-                "correct": true
-            },
-            {
-                "text": "Les personnes non formées ou vivant dans des zones sans infrastructures numériques subissent une fracture numérique.",
-                "correct": true
-            },
-            {
-                "text": "Parce qu’il empêche totalement les rencontres physiques.",
-                "correct": false
-            },
-            {
-                "text": "Parce qu’il interdit aux gens de sortir de chez eux.",
-                "correct": false
-            }
-        ],
-        "type": "multiple"
-    },
-    {
         "question": "Qu’est-ce que la fracture numérique ?",
         "options": [
             {
@@ -1810,50 +1788,6 @@
             },
             {
                 "text": "C’est la difficulté d’utiliser une technologie avancée.",
-                "correct": false
-            }
-        ],
-        "type": "single"
-    },
-    {
-        "question": "Pourquoi l’impact du DAS (Débit d’Absorption Spécifique) est-il une préoccupation ?",
-        "options": [
-            {
-                "text": "Nous ne connaissons pas encore précisément ses effets sur la santé, ce qui implique un principe de précaution.",
-                "correct": true
-            },
-            {
-                "text": "Parce qu’il réduit la vitesse de connexion internet.",
-                "correct": false
-            },
-            {
-                "text": "Parce qu’il empêche les smartphones de fonctionner correctement.",
-                "correct": false
-            },
-            {
-                "text": "Parce qu’il affecte la durée de vie des batteries.",
-                "correct": false
-            }
-        ],
-        "type": "single"
-    },
-    {
-        "question": "En quoi les objets numériques peuvent-ils poser problème aux personnes en situation de handicap ?",
-        "options": [
-            {
-                "text": "Lorsqu’ils ne sont pas conçus pour être accessibles, ils limitent l’autonomie des personnes déficientes.",
-                "correct": true
-            },
-            {
-                "text": "Parce qu’ils sont trop chers pour être achetés par tous.",
-                "correct": false
-            },
-            {
-                "text": "Parce qu’ils nécessitent un niveau d’étude élevé pour être utilisés.",
-                "correct": false
-            },
-            {
-                "text": "Parce qu’ils consomment trop d’électricité.",
                 "correct": false
             }
         ],
@@ -2520,22 +2454,22 @@
         "type": "single"
     },
     {
-        "question": "Laquelle de ces polices consomme 24% moins d'encre que les autres ?",
+        "question": "Laquelle de ces polices est généralement considérée comme consommant le moins d'encre ?",
         "options": [
             {
-                "text": "Times new roman",
-                "correct": false
-            },
-            {
-                "text": "Century Gothic",
+                "text": "Times New Roman",
                 "correct": false
             },
             {
                 "text": "Comic Sans",
-                "correct": true
+                "correct": false
             },
             {
                 "text": "Garamond",
+                "correct": true
+            },
+            {
+                "text": "Century Gothic",
                 "correct": false
             }
         ],
@@ -2888,28 +2822,6 @@
             },
             {
                 "text": "77980 litres d'eau",
-                "correct": false
-            }
-        ],
-        "type": "single"
-    },
-    {
-        "question": "Pour produire 1 MWh électrique avec la géothermie, il faut",
-        "options": [
-            {
-                "text": "7493 litres d'eau",
-                "correct": false
-            },
-            {
-                "text": "524 litres d'eau",
-                "correct": false
-            },
-            {
-                "text": "56 litres d'eau",
-                "correct": true
-            },
-            {
-                "text": "49030 litres d'eau",
                 "correct": false
             }
         ],
@@ -3588,5 +3500,357 @@
             { "text": "550%", "correct": false }
         ],
         "type": "single"
+    },
+    {
+        "question": "Les démarches du numérique responsable visent à :",
+        "options": [
+            {
+                "text": "Augmenter le nombre de démarches possibles économiques, sociales et environnementales grâce au numérique.",
+                "correct": false
+            },
+            {
+                "text": "Créer de la valeur économique, sociale et environnementale grâce au numérique.",
+                "correct": true
+            },
+            {
+                "text": "Réduire l'empreinte économique, sociale et environnementale du numérique.",
+                "correct": true
+            },
+            {
+                "text": "réduire l'empreinte écologique et sociale des technologies de l'information et de la communication.",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quel est le dernier objectif des démarches du numérique responsable ?",
+        "options": [
+            {
+                "text": "Créer des processus apportant de la valeur, et améliorer les précédents processus.",
+                "correct": false
+            },
+            {
+                "text": "Satisfaire les besoins en santé, éducation, habitat, équité et prendre en compte les parties prenantes.",
+                "correct": false
+            },
+            {
+                "text": "Préserver les ressources naturelles et énergétiques, au détriment du numérique.",
+                "correct": false
+            },
+            {
+                "text": "Réduire grâce au numérique l'empreinte économique, sociale et environnementale d'autres processus.",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quels sont les axes stratégiques du numérique responsable ?",
+        "options": [
+            {
+                "text": "Limiter les impacts et la consommation",
+                "correct": true
+            },
+            {
+                "text": "Permettre l'émergence de nouveaux comportements et valeurs",
+                "correct": true
+            },
+            {
+                "text": "Optimiser les outils numériques",
+                "correct": false
+            },
+            {
+                "text": "Offrir des services accessibles pour tous",
+                "correct": false
+            },
+            {
+                "text": "Favoriser la résilience des organisations",
+                "correct": true
+            },
+            {
+                "text": "Avoir une conception responsable des services et des usages",
+                "correct": false
+            },
+            {
+                "text": "Rendre accessible, inclusif et durable",
+                "correct": true
+            },
+            {
+                "text": "Rendre éthique et responsable",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quels sont les trois U pour définir les applications acessibles à tous ?",
+        "options": [
+            {
+                "text": "Utilisateur, Utilisation, Utiles",
+                "correct": false
+            },
+            {
+                "text": "Utiles, Utilisables, Utilisées",
+                "correct": true
+            },
+            {
+                "text": "Ultérieures, Unilatérales, Unanimes",
+                "correct": false
+            },
+            {
+                "text": "Uniques, Unificatrices, Universelles",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Quelle politique ne rentre pas dans la mise en place d'un numérique éthique et responsable ?",
+        "options": [
+            {
+                "text": "La mise en place de conférences informatives et préventives",
+                "correct": true
+            },
+            {
+                "text": "La mise en place d'une politique RSE",
+                "correct": false
+            },
+            {
+                "text": "Le respect du RGPD",
+                "correct": false
+            },
+            {
+                "text": "La valorisation sociale avec un recrutement d'égalité des sexes incluant toutes les diversités",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Comment le numérique responable peut assurer la résilience des organisations ?",
+        "options": [
+            {
+                "text": "Avec le respect des normes",
+                "correct": true
+            },
+            {
+                "text": "Avec des formations",
+                "correct": false
+            },
+            {
+                "text": "Avec de l'innovation",
+                "correct": true
+            },
+            {
+                "text": "Avec de l'unification",
+                "correct": false
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "L'émergence de nouveaux comportements et valeurs se fait via quelle démarche ?",
+        "options": [
+            {
+                "text": "La valorisation des initiatives internes",
+                "correct": true
+            },
+            {
+                "text": "Les réunions et évènements entre pionniers",
+                "correct": false
+            },
+            {
+                "text": "La mise en place de contrôles",
+                "correct": false
+            },
+            {
+                "text": "La rationnalisation des procédures",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Quelle est la règle des cinq R ?",
+        "options": [
+            {
+                "text": "Réduire, Réutiliser, Recycler, Réactiver, Réacquérir",
+                "correct": false
+            },
+            {
+                "text": "Refuser, Réduire, Réutiliser, Réparer, Recycler",
+                "correct": true
+            },
+            {
+                "text": " Réadapter, Refuser, Réparer, Réagir, Réutiliser",
+                "correct": false
+            },
+            {
+                "text": "Refuser, Réaliser, Réassigner, Réparer, Réduire",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Lors de la campagne de la Société Générale, sur quel sujets des fiches pratiques ont été réalisées ?",
+        "options": [
+            {
+                "text": "L’accompagnement des utilisateurs",
+                "correct": true
+            },
+            {
+                "text": "La diffusion de données",
+                "correct": false
+            },
+            {
+                "text": "La réutilisation des documents",
+                "correct": false
+            },
+            {
+                "text": "L’impact du matériel",
+                "correct": true
+            },
+            {
+                "text": "La création de données",
+                "correct": true
+            },
+            {
+                "text": "Le suivi de consommation",
+                "correct": false
+            },
+            {
+                "text": "Le partage de données",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Par combien de % est-ce que le nombre d'appels vidéo passés via Teams a augmenté en Mars 2020 ?",
+        "options": [
+            {
+                "text": "550%",
+                "correct": false
+            },
+            {
+                "text": "300%",
+                "correct": false
+            },
+            {
+                "text": "1300%",
+                "correct": false
+            },
+            {
+                "text": "1000%",
+                "correct": true
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "De quoi dépend l'impact d'un mail ?",
+        "options": [
+            {
+                "text": "Du poids de ses pièces jointes",
+                "correct": true
+            },
+            {
+                "text": "De son nombre de caractères",
+                "correct": false
+            },
+            {
+                "text": "De sa chaîne de messages (en cas de réponses)",
+                "correct": false
+            },
+            {
+                "text": "Du temps de stockage sur un serveur",
+                "correct": true
+            },
+            {
+                "text": "De ses liens",
+                "correct": false
+            },
+            {
+                "text": "Du nombre de destinataires",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
+    },
+    {
+        "question": "Lequel de ces points n'est pas un point clef du Human for IT ?",
+        "options": [
+            {
+                "text": "Réfléchir aux conditions de travail des personnes qui fabriquent les équipements.",
+                "correct": false
+            },
+            {
+                "text": "Réfléchir aux conditions de travail des personnes qui fabriquent les services.",
+                "correct": false
+            },
+            {
+                "text": "Réfléchir aux impacts déraisonnables du numérique. Mise en place d'une économie de l'attention.",
+                "correct": false
+            },
+            {
+                "text": "Réfléchir aux impacts des écosytèmes urbains et numériques sur notre environnement.",
+                "correct": true
+            },
+            {
+                "text": "Réfléchir aux impacts sociaux liés à une mauvaise gestion des déchets sur les populations.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "Lequel de ces points n'est pas un point clef du IT for Human ?",
+        "options": [
+            {
+                "text": "Améliorer les conditions sociales d'autres processus grâce au numérique.",
+                "correct": false
+            },
+            {
+                "text": "Permettre l'accès à l'information pour des personnes en situation de handicap visuel.",
+                "correct": false
+            },
+            {
+                "text": "Aider à la santé : aides diabétiques, détecter des tumeurs...",
+                "correct": false
+            },
+            {
+                "text": "Améliorer les conditions de travail des personnes qui fabriquent les services.",
+                "correct": true
+            },
+            {
+                "text": "Créer des emplois dans le reconditionnement du matériel.",
+                "correct": false
+            }
+        ],
+        "type": "single"
+    },
+    {
+        "question": "A quels besoins essaie-t-on de répondre dans l'IT for Human ?",
+        "options": [
+            {
+                "text": "Consulter à distance",
+                "correct": true
+            },
+            {
+                "text": "Rendre accessible le web",
+                "correct": true
+            },
+            {
+                "text": "Mieux vérifier les informations",
+                "correct": false
+            },
+            {
+                "text": "Créer de l'emploi",
+                "correct": true
+            }
+        ],
+        "type": "multiple"
     }
 ]
